@@ -1,0 +1,6 @@
+# Don't upload secrets
+config.py
+
+# Don't upload cache files
+__pycache__/
+.ipynb_checkpoints/
